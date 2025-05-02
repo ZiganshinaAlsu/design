@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1cx-7qiLLUbesGDPXpKiVa9UgokR6boZTF-DU7k7l
 
 Тестирование модуля оплаты Paypal
 https://docs.google.com/spreadsheets/d/1wfLn1_2TyngJIicsp0_gShdO6K4RXjd_K9uRZg7PUeU/edit?usp=sharing
+
+Чек-лист для тестирования регистрации, логина и каталога
+https://docs.google.com/spreadsheets/d/1iKjAvgNJVjE2KtnYklfuVbg8JRD51Yqzu9MtOtPmoyc/edit?usp=sharing
